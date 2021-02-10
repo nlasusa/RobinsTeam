@@ -82,3 +82,35 @@
     color: rgb(180, 180, 180); 
     text-align: center; 
 }
+
+
+/* // MEDIA QUERIES  */
+@media only screen and (max-width: 430px) {
+    #team-name {
+      font-size: 15px
+    }
+    .team-header {
+        font-size: 28px;
+  }
+  #team-name-title {
+    font-size: 13.5px;
+  }
+  #team-email {
+      font-size: 12px; 
+  }
+}
+  
+@media only screen and (max-width: 730px) {
+    #team-name {
+      font-size: 15px
+    }
+    .team-header {
+        font-size: 28px;
+  }
+  #team-name-title {
+    font-size: 13.5px;
+  }
+  #team-email {
+      font-size: 12px; 
+  }
+}
