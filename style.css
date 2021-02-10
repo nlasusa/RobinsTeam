@@ -11,12 +11,14 @@
     width: 100%; 
     letter-spacing: .8rem;
     font-family: 'Raleway';
-    color: black;
+    color: white;
+    background-color: black;
+    padding: 30px;
     text-transform: uppercase;
     font-weight: 300;
     text-align: center;
-    margin-top: 40px; 
-    margin-bottom: 70px;
+    /* margin-top: 60px;  */
+    margin-bottom: 10px;
   }
 
 #team-img {
@@ -24,14 +26,15 @@
 } 
 
   .container {
-      margin-bottom: 200px;
+   
+      font-family: 'Raleway';
+      padding: 60px; 
   }
- 
+/*  
 .card {
     font-family: 'Raleway';
     padding: 60px; 
-    margin-bottom: 20px; 
-}
+} */
 
 #team-name {
     font-size: 21px;
@@ -47,4 +50,5 @@
     font-weight: 350;
     color: black;
     text-align: center; 
+    margin-bottom: 60px; 
 }
