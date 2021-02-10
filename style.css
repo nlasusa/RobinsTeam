@@ -1,0 +1,39 @@
+.body {
+    font-family: 'Raleway';
+}
+
+.team-header {
+    font-size: 40px;
+    width: 100%; 
+    letter-spacing: .7rem;
+    font-family: 'Raleway';
+    color: black;
+    text-transform: uppercase;
+    font-weight: 300;
+    text-align: center;
+    margin-top: 150px; 
+    margin-bottom: 50px;
+  }
+
+  .container {
+      margin-bottom: 200px;
+  }
+ 
+.card {
+    font-family: 'Raleway';
+    padding: 60px; 
+    margin-bottom: 20px; 
+    border: white;
+}
+
+#team-name {
+    font-size: 20px;
+    color: #007bff;
+    text-align: center; 
+}
+
+#team-name-title {
+    font-size: 18px;
+    color: black;
+    text-align: center; 
+}
