@@ -3,7 +3,19 @@
 }
 
 #logo-main {
-    margin-bottom: 60px; 
+    margin-bottom: 55px; 
+    margin-top: -35px;
+}
+
+#visit-site {
+    font-size: 15px;
+    float: left;
+    letter-spacing: .6.5rem; 
+}
+
+#visit-site:hover {
+    cursor: pointer; 
+    color: rgb(211, 211, 211);
 }
 
 .team-header {
@@ -13,7 +25,7 @@
     font-family: 'Raleway';
     color: white;
     background-color: black;
-    padding: 30px;
+    padding: 40px;
     text-transform: uppercase;
     font-weight: 300;
     text-align: center;
@@ -50,5 +62,23 @@
     font-weight: 350;
     color: black;
     text-align: center; 
+    /* margin-bottom: 60px;  */
+}
+
+#team-email {
+    font-size: 15px;
+    letter-spacing: 1px; 
+    font-weight: 400;
+    color: rgb(0, 102, 236);
+    text-align: center; 
     margin-bottom: 60px; 
+}
+
+#team-email:hover {
+    color: rgb(4, 90, 202);
+}
+
+.fa-envelope {
+    color: rgb(180, 180, 180); 
+    text-align: center; 
 }
